@@ -1,0 +1,51 @@
+00 English
+01 spot
+02 spots
+03 Red player
+04 Blue player
+05 F1 Help   Arrows Move   ENTER Place   ESC Quits
+06 yn
+07 Sound on
+08 Sound off
+09 Player against player
+10 Player against program
+11 Beginner level
+12 Intermediate level
+13 Advanced level
+14 Control Keys
+15 Actual settings
+16 Player^player
+17 Player^program
+18 Program plays like a beginner
+19 Program plays quite good
+20 Program plays like a master
+21 Sound on/off
+22 Play back the 2 last moves
+23 Shows the actual settings
+24 Press these keys right now or during the play
+25 Back to play
+26 How is it played
+27 How is The Spots Game played
+28   The game is played on an (8x8) squares field. Red spots belongs  to  one
+29 player and blues to the other. At the beginning, 4 spots are placed in the
+30 middle of the field. Players put spots one after an other.
+31
+32   When some spots of our opponent are surrounded by our spots they  change
+33 color and become ours. A row of same color spots is surrounded  when  it
+34 is between two spots of the other color, which are just at the extremities
+35 of the row. However! Change color only the rows which are  surrounded  by
+36 the lastly placed spot.
+37
+38   The game is finished when there is no empty square in the field. Wins it
+39 who has more spots then the other.
+40
+41 ENTER after reading
+42 Win of red player
+43 Win of blue player
+44 Play again ? (y/n)
+45           This game is a free share software.
+46           Programmer forbids it's selling.
+47 Game of
+48 Continuing "clever thing" kind of programs
+49 presents:
+50 Are you sure ? (y/n)

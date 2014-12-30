@@ -1,0 +1,51 @@
+00 Deutsch
+01 Taste
+02 die Taste
+03 Der rote Spieler
+04 Der blaue Spieler
+05 F1 Hilfe  Bewege mit den Pfeilen  ENTER Plazieren  ESC Beenden
+06 jn
+07 Mit Klang
+08 Ohne Klang
+09 Jetzt wird mit zwei Spieler gespielt
+10 Jetzt wird mit einem Spieler gespielt
+11 AnfÑnger
+12 Fortgeschrittene
+13 Profis
+14 Die Kontrolltasten
+15 Momentaner Stand
+16 Spieler^Spieler
+17 Spieler^Programm
+18 Programm spielt als AnfÑnger
+19 Programm spielt als Fortgeschrittener
+20 Programm spielt als Profi
+21 Ein-/Ausschalten des Klanges
+22 ZurÅck zu den 2 letzten Bewegungen
+23 Zeige den momentanen Stand
+24 DrÅcke die Tasten jetzt oder wÑhrend des Spieles
+25 ZurÅck zu dem Feld
+26 Die Spielregeln
+27 Wie wird das Spiel gespielt
+28 Das Spiel wird in einem Feld mit (8x8) KÑstchen gespielt.Der eine Spieler
+29 hat die blauen Knîpfe der andere die roten.FÅr den Angang sind 4 Knîpfe
+30 in der Mitte des Feldes plaziert.Die Spieler plazieren dann die Knîpfe
+31 auf den Feld in der Reihe,einer nach dem anderen.
+32
+33 Wenn die Knîpfe des Gegners umzingelt werden,wird die Farbe geÑndert.
+34 Die Umzingelung bedeutet,da· eine Reihe von den Knîpfen des Gegners sich
+35 (ohen lehres KÑstchen) zwischen zwei unserer Knîpfe befindet,die an den
+36 beiden Enden der Reihe sind.Aber!Nur die Knîpfe werden umgefÑrbt,die von
+37 unseren Knîpfen umzingelt werden.Nicht aber die,die vorher da waren.(!?)
+38 Das Spiel wird so lange gespielt,bis alle KÑstchen des Feldes belegt sind.
+39 Gewonnen hat der,der mehr Knîpfe hat.
+40
+41 ENTER nachdem Sie es gelesen haben
+42 Der Rote gewint
+43 Der Blaue gewint
+44 Wollen Sie weiter spielen ? (j/n)
+45 Das Weiterkopieren des Spieles ist erlaubt.
+46    Der Verkauf dieses Spieles ist verboten.
+47 Das Spiel mit
+48 In der Programmreihe vom Typ "kluge Sachen" 
+49 Presentiert:
+50 Sind Sie sicher ? (j/n)
